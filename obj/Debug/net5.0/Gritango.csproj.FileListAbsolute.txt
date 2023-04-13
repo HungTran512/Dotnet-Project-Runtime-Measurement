@@ -1,0 +1,16 @@
+/Users/tranhung/Desktop/Ids/Gritango/bin/Debug/net5.0/Gritango
+/Users/tranhung/Desktop/Ids/Gritango/bin/Debug/net5.0/Gritango.deps.json
+/Users/tranhung/Desktop/Ids/Gritango/bin/Debug/net5.0/Gritango.runtimeconfig.json
+/Users/tranhung/Desktop/Ids/Gritango/bin/Debug/net5.0/Gritango.runtimeconfig.dev.json
+/Users/tranhung/Desktop/Ids/Gritango/bin/Debug/net5.0/Gritango.dll
+/Users/tranhung/Desktop/Ids/Gritango/bin/Debug/net5.0/Gritango.pdb
+/Users/tranhung/Desktop/Ids/Gritango/obj/Debug/net5.0/Gritango.csproj.AssemblyReference.cache
+/Users/tranhung/Desktop/Ids/Gritango/obj/Debug/net5.0/Gritango.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tranhung/Desktop/Ids/Gritango/obj/Debug/net5.0/Gritango.AssemblyInfoInputs.cache
+/Users/tranhung/Desktop/Ids/Gritango/obj/Debug/net5.0/Gritango.AssemblyInfo.cs
+/Users/tranhung/Desktop/Ids/Gritango/obj/Debug/net5.0/Gritango.csproj.CoreCompileInputs.cache
+/Users/tranhung/Desktop/Ids/Gritango/obj/Debug/net5.0/Gritango.dll
+/Users/tranhung/Desktop/Ids/Gritango/obj/Debug/net5.0/refint/Gritango.dll
+/Users/tranhung/Desktop/Ids/Gritango/obj/Debug/net5.0/Gritango.pdb
+/Users/tranhung/Desktop/Ids/Gritango/obj/Debug/net5.0/Gritango.genruntimeconfig.cache
+/Users/tranhung/Desktop/Ids/Gritango/obj/Debug/net5.0/ref/Gritango.dll
