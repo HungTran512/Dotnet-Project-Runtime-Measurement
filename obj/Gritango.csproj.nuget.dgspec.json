@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tranhung/Desktop/Ids/Gritango/Gritango.csproj": {}
+    "/Users/tranhung/Desktop/Ids/Dotnet-Project-Runtime-Measurement/Gritango.csproj": {}
   },
   "projects": {
-    "/Users/tranhung/Desktop/Ids/Gritango/Gritango.csproj": {
+    "/Users/tranhung/Desktop/Ids/Dotnet-Project-Runtime-Measurement/Gritango.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tranhung/Desktop/Ids/Gritango/Gritango.csproj",
+        "projectUniqueName": "/Users/tranhung/Desktop/Ids/Dotnet-Project-Runtime-Measurement/Gritango.csproj",
         "projectName": "Gritango",
-        "projectPath": "/Users/tranhung/Desktop/Ids/Gritango/Gritango.csproj",
+        "projectPath": "/Users/tranhung/Desktop/Ids/Dotnet-Project-Runtime-Measurement/Gritango.csproj",
         "packagesPath": "/Users/tranhung/.nuget/packages/",
-        "outputPath": "/Users/tranhung/Desktop/Ids/Gritango/obj/",
+        "outputPath": "/Users/tranhung/Desktop/Ids/Dotnet-Project-Runtime-Measurement/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tranhung/.nuget/NuGet/NuGet.Config"
